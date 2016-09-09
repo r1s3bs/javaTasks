@@ -1,5 +1,3 @@
-import java.awt.*;
-import java.awt.font.TextAttribute;
 import java.util.Scanner;
 
 /**
